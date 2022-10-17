@@ -1,7 +1,7 @@
 {
-  "name": "codebook",
+  "name": "connectbook",
   "version": "1.0.0",
-  "description": "Coders meet website",
+  "description": "Website to connect with friends",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index",
@@ -10,7 +10,7 @@
   "keywords": [
     "social"
   ],
-  "author": "Harsh Sinha",
+  "author": "Nupur Sharma",
   "license": "ISC",
   "dependencies": {
     "connect-flash": "^0.1.1",
